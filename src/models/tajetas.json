@@ -1,0 +1,34 @@
+[
+    {
+        "id":"1",
+        "imagen":"https://raw.githubusercontent.com/Luisfer082/imagenes-Portafolio/main/html.jpg",
+        "tecnologia":"Html"
+    },
+    {
+        "di":"2",
+        "imagen":"https://raw.githubusercontent.com/Luisfer082/imagenes-Portafolio/main/css.jpg",
+        "tecnologia":"Css"
+    },
+    {
+        "di":"3",
+        "imagen":"https://raw.githubusercontent.com/Luisfer082/imagenes-Portafolio/main/js.jpg",
+        "tecnologia":"Javascript"
+    },
+    {
+        "di":"4",
+        "imagen":"https://raw.githubusercontent.com/Luisfer082/imagenes-Portafolio/main/React.jpg",
+        "tecnologia":"Reac"
+    },
+    {
+        "di":"5",
+        "imagen":"https://raw.githubusercontent.com/Luisfer082/imagenes-Portafolio/main/mongodb.jpg",
+        "tecnologia":"Mongodb"
+    },
+    {
+        "di":"6",
+        "imagen":"https://raw.githubusercontent.com/Luisfer082/imagenes-Portafolio/main/boostrap.jpg",
+        "tecnologia":"cirrus"
+    }
+        
+
+]
