@@ -37,31 +37,18 @@ function Nav() {
                     </span>
                 </a>
             </div>
-            <div class="nav-item has-sub toggle-hover" id="dropdown">
-                <a class="nav-dropdown-link">Animated</a>
-                <ul class="dropdown-menu dropdown-animated" role="menu">
-                    <li role="menu-item"><a href="#">First Item</a></li>
-                    <li role="menu-item"><a href="#">Second Item</a></li>
-                    <li role="menu-item"><a href="#">Third Item</a></li>
-                </ul>
-            </div>
         </div>
+
 
         <div class="nav-right">
             <div class="nav-item active">
-                <a href="#">Active</a>
+                <a href="#">Inicio</a>
             </div>
             <div class="nav-item">
-                <a href="#">Link 1</a>
+                <a href="#">Tecnologias</a>
             </div>
-            <div class="nav-item has-sub" id="dropdown">
-                <ul class="dropdown-menu" role="menu">
-                    <li role="menu-item"><a href="#">First Item</a></li>
-                    <li role="menu-item"><a href="#">Second Item</a></li>
-                    <li role="menu-item"><a href="#">Third Item</a></li>
-                    <li class="dropdown-menu-divider"></li>
-                    <li role="menu-item"><a href="#">Fourth Item</a></li>
-                </ul>
+            <div class="nav-item">
+                <a href="#">Proyectos</a>
             </div>
         </div>
     </div>
