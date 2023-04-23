@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+.linea{
+  text-decoration: none;
+  color: black;
+}
 
 .conteiner-Card{
   display: flex;
