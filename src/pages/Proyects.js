@@ -7,19 +7,19 @@ function Proyects() {
     <div class="grid-c-3 py-4 bg-purple-200">
         <h3 className='font-semibold uppercase'>Proyectos</h3>
     </div>
-    <div class="grid-c-2 py-4 bg-indigo-200">
+    <div class="grid-c-2 py-4 bg-indigo-200 cursor">
         <h3>Ecommerce</h3>
     </div>
-    <div class="py-4 bg-purple-200">
+    <div class="py-4 bg-purple-200 cursor">
         <h4>Agenda</h4>
     </div>
-    <div class="grid-c-1 py-4 bg-indigo-200">
+    <div class="grid-c-1 py-4 bg-indigo-200 cursor">
         <h4>Tienda de bicicletas</h4>
     </div>
-    <div class="grid-c-1 py-4 bg-purple-200">
+    <div class="grid-c-1 py-4 bg-purple-200 cursor">
         <h4>Restaurante</h4>
     </div>
-    <div class="grid-c-1 py-4 bg-indigo-200">
+    <div class="grid-c-1 py-4 bg-indigo-200 cursor">
         <h4>Buscador de pokemones</h4>
     </div>
 </div>

@@ -6,7 +6,7 @@ function Nav() {
     <div class="header header-fixed u-unselectable header-animated bg-blue-200" >
     <div class="header-brand">
         <div class="nav-item no-hover">
-            <a><h6 class="title">Logo</h6></a>
+            <a><h6 class="title">Hello</h6></a>
         </div>
         <div class="nav-item nav-btn" id="header-btn">
             <span></span>
